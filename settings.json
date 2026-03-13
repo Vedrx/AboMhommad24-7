@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RB_The_Ghost.aternos.me",
+    "ip": "koala.aternos.host",
     "port": 52068,
     "version": "1.21.1",
     "try-creative": false
